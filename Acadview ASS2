@@ -1,0 +1,33 @@
+#Ques1 print anything you want on screen
+
+print("HELLO")
+
+#Ques2 join two strings using '+'
+
+str1="ACAD"
+str2="VIEW"
+print(str1+str2)
+
+#Ques3 Take the input of three variable x,y,z.Print their values on screen.
+
+X=1
+Y=2
+Z=3
+print(X,Y,Z)
+
+#Ques4 Let's get started on screen
+
+print("Let\'s get started on screen")
+
+#Ques5 print the following values using placeholders.
+s="Acadview"
+course="python"
+fees=5000
+print("Welcome to %s, course is %s and fees is %d" %(s,course,fees))
+
+#Ques Let's do something interesting exercise:
+name="Tony stark"
+salary=100000
+print('%s %d'%(name,salary)
+    
+)
